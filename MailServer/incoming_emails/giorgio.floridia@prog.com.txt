@@ -1,0 +1,5 @@
+Email{sender='giorgio.floridia@prog.com'| receiver=receiver=[giorgio.floridia@prog.com]| ID=1| subject='prova messaggio'| text='testo'| date=2025-01-21T15:42:05.227184600}
+Email{sender='tiziano.floriddia@prog.com'| receiver=receiver=[giorgio.floridia@prog.com; mario.rossi@prog.com]| ID=5| subject='Re: esame'| text='si dai, speriamo bene'| date=2025-01-21T16:06:18.560688}
+Email{sender='mario.rossi@prog.com'| receiver=receiver=[giorgio.floridia@prog.com; tiziano.floriddia@prog.com]| ID=6| subject='Re: esame'| text='buona fortuna a tutti'| date=2025-01-21T16:08:15.565662}
+Email{sender='mario.rossi@prog.com'| receiver=receiver=[giorgio.floridia@prog.com; tiziano.floriddia@prog.com]| ID=8| subject='Re: testo'| text='reply all'| date=2025-01-28T09:55:08.449983200}
+Email{sender='MailSystem@prog.com'| receiver=receiver=[giorgio.floridia@prog.com]| ID=9| subject='Message Delivery Failed'| text='The email account that you tried to reach (giorgio@prog.com) does not exist.'| date=2025-01-28T09:55:46.678744300}

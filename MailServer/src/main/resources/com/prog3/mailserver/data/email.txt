@@ -1,0 +1,3 @@
+Tiziano,tiziano.floriddia@prog.com
+Giorgio,giorgio.floridia@prog.com
+Mario,mario.rossi@prog.com

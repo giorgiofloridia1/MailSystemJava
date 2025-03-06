@@ -1,0 +1,4 @@
+Email{sender='mario.rossi@prog.com'| receiver=receiver=[tiziano.floriddia@prog.com]| ID=3| subject='Re: AUGURI'| text='grazie tiziano, anche a te!'| date=2025-01-21T16:04:44.779022300}
+Email{sender='giorgio.floridia@prog.com'| receiver=receiver=[tiziano.floriddia@prog.com; mario.rossi@prog.com]| ID=4| subject='esame'| text='buona fortuna per l'esame'| date=2025-01-21T16:05:40.653267600}
+Email{sender='mario.rossi@prog.com'| receiver=receiver=[giorgio.floridia@prog.com; tiziano.floriddia@prog.com]| ID=6| subject='Re: esame'| text='buona fortuna a tutti'| date=2025-01-21T16:08:15.565662}
+Email{sender='giorgio.floridia@prog.com'| receiver=receiver=[tiziano.floriddia@prog.com; mario.rossi@prog.com]| ID=7| subject='testo'| text='testo'| date=2025-01-28T09:54:46.311581900}
